@@ -139,6 +139,14 @@ const activityData = [
     StartTime: new Date("2022-04-01T15:00:00Z"),
     EndTime: new Date("2022-04-01T15:45:00Z"),
   },
+  {
+    user: "c",
+    Activity: "run",
+    Steps: 7000,
+    Distance: 6,
+    StartTime: new Date("2022-04-01T15:00:00Z"),
+    EndTime: new Date("2022-04-01T15:45:00Z"),
+  },
 ];
 
 const users = [
